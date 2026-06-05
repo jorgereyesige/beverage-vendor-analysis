@@ -1,0 +1,12 @@
+2026-06-02 08:25:35,000 - INFO - Creating Vendor Summary Table
+2026-06-02 08:34:14,198 - INFO - Creating Vendor Summary Table
+2026-06-02 08:37:08,184 - INFO - Creating Vendor Summary Table
+2026-06-02 08:40:15,443 - INFO - Creating Vendor Summary Table
+2026-06-02 08:49:36,033 - INFO - Ingested begin_inventory.csv into database
+2026-06-02 08:49:42,511 - INFO - Ingested end_inventory.csv into database
+2026-06-02 08:51:36,165 - INFO - Ingested purchases.csv into database
+2026-06-02 08:51:36,583 - INFO - Ingested purchase_prices.csv into database
+2026-06-02 09:00:21,395 - INFO - Ingested sales.csv into database
+2026-06-02 09:00:21,629 - INFO - Ingested vendor_invoice.csv into database
+2026-06-02 09:00:21,629 - INFO - Ingestion Complete
+2026-06-02 09:00:21,629 - INFO - Total time taken: 10.89 minutes
